@@ -48,6 +48,6 @@ All these events can be configured by the administrator via in-game commands or 
 
 If you want to take a look at my datapacks, check out both my PlanetMinecraft and Github pages:
 
-    PlanetMinecraft page: https://www.planetminecraft.com/member/gnottero/
+    - PlanetMinecraft page: https://www.planetminecraft.com/member/gnottero/
     
-    Github page: https://github.com/Gnottero
+    - Github page: https://github.com/Gnottero
