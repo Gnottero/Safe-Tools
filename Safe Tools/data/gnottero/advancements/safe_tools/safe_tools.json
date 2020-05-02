@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Never Break Your Tools Again",
+          "icon": {
+               "item": "minecraft:diamond_pickaxe"
+          },
+          "show_toast": false,
+          "title": "Safe Tools"
+     },
+     "parent": "global:gnottero"
+}

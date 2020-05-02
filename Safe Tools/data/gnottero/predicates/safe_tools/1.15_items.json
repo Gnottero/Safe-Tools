@@ -1,0 +1,17 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+      "type": "minecraft:player",
+      "equipment": {
+          "mainhand": {
+              "tag": "gnottero:1.15_items",
+              "durability": {
+                  "min": 0,
+                  "max": 1
+              }
+          }
+      },
+      "player": {}
+  }
+}

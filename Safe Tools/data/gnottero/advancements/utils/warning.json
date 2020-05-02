@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamond_pickaxe"
+        },
+        "title": "Safe Tools Warning",
+        "description": "The durability of your tool is too low!\nWe recommend replacing or repairing it.",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
